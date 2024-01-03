@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FACEBOOK  CLONE",
+    "liveServer.settings.port": 5502
+  }
+}
